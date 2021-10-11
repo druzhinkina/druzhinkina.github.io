@@ -1,0 +1,31 @@
+body {
+    background-color: #967254;
+}
+
+.horizontal-section {
+    padding: 100px 0;
+    background-color: pink;
+
+}
+
+.sticky-wrapper {
+    width: 100%;
+    overflow: hidden;
+    position: sticky;
+    top: 100px;
+
+}
+
+.element-wrapper {
+    position: relative;
+    display: flex;
+}
+
+.element {
+    width: 500px;
+    height: 400px;
+    background-color: purple;
+    margin: 0 20px 0 0;
+    flex-shrink: 0;
+
+}
