@@ -21,10 +21,49 @@ body {
     display: flex;
 }
 
-.element {
-    width: 500px;
-    height: 400px;
-    background-color: purple;
+.element1 {
+    width: 640px;
+    height: 640px;
+    margin: 0 20px 0 0;
+    flex-shrink: 0;
+
+}
+
+.element2 {
+    width: 640px;
+    height: 640px;
+    margin: 0 20px 0 0;
+    flex-shrink: 0;
+
+}
+
+.element3 {
+    width: 750px;
+    height: 750px;
+    margin: 0 20px 0 0;
+    flex-shrink: 0;
+
+}
+
+.element4 {
+    width: 912px;
+    height: 912px;
+    margin: 0 20px 0 0;
+    flex-shrink: 0;
+
+}
+
+.element5 {
+    width: 912px;
+    height: 912px;
+    margin: 0 20px 0 0;
+    flex-shrink: 0;
+
+}
+
+.element6 {
+    width: 750px;
+    height: 750px;
     margin: 0 20px 0 0;
     flex-shrink: 0;
 
