@@ -1,6 +1,4 @@
-body {
-    background-color: #967254;
-}
+
 
 .horizontal-section {
     padding: 100px 0;
@@ -38,32 +36,32 @@ body {
 }
 
 .element3 {
-    width: 750px;
-    height: 750px;
+    width: 640px;
+    height: 640px;
     margin: 0 20px 0 0;
     flex-shrink: 0;
 
 }
 
 .element4 {
-    width: 912px;
-    height: 912px;
+    width: 640px;
+    height: 640px;
     margin: 0 20px 0 0;
     flex-shrink: 0;
 
 }
 
 .element5 {
-    width: 912px;
-    height: 912px;
+    width: 640px;
+    height: 640px;
     margin: 0 20px 0 0;
     flex-shrink: 0;
 
 }
 
 .element6 {
-    width: 750px;
-    height: 750px;
+    width: 640px;
+    height: 640px;
     margin: 0 20px 0 0;
     flex-shrink: 0;
 
